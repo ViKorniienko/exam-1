@@ -279,8 +279,5 @@ button:active {
   line-height: 20px;
   padding-left: 0px;
   margin-top: 25px;
-}
-
-.social:hover {
-  color: #ffffff;
+  margin-bottom: 0px;
 }
